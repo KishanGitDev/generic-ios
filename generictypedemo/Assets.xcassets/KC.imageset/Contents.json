@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "KC-1280*1280.jpeg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
